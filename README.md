@@ -14,5 +14,5 @@ The repository is intended to provide a System Verilog alternative of Lab 1, fol
 
 ## TODO
 
-- [ ] Create SystemVerilog version of the debouncer
+- [x] Create SystemVerilog version of the debouncer
 - [ ] Add Verilator Makefile
