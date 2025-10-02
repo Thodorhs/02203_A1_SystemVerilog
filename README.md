@@ -8,7 +8,7 @@ The design flow follows a **top-down, simulation-based methodology** and targets
 
 ## Documentation
 
-Read [Assignment tasks](assignment_1\02203-Assignment-1-2025.pdf) for understanting the assignment and [Report (PDF)](report\02203_Greatest_Common_Divisor_Report.pdf) for Full explanation of our implementation.
+Read [Assignment tasks](assignment_1/02203-Assignment-1-2025.pdf) for understanting the assignment and [Report (PDF)](report/02203_Greatest_Common_Divisor_Report.pdf) for Full explanation of our implementation.
 
 ## Simulation and Tools
 
@@ -23,4 +23,5 @@ Read [Assignment tasks](assignment_1\02203-Assignment-1-2025.pdf) for understant
 
 
 ## Notes
+
 - This repo provides a **SystemVerilog** version of the assignment (original was in VHDL).
